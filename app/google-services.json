@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250647535131",
+    "firebase_url": "https://grps-2f24b-default-rtdb.firebaseio.com",
+    "project_id": "grps-2f24b",
+    "storage_bucket": "grps-2f24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250647535131:android:6d6497d06f2cd57e2d62be",
+        "android_client_info": {
+          "package_name": "com.vedy.grp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250647535131-53q3sfd5mpj7o14qnghqbhtahvqjnj5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedy.grp",
+            "certificate_hash": "55db3852a993a2e11b40dc6c48d3d39820040262"
+          }
+        },
+        {
+          "client_id": "250647535131-mtso276gtska0886kkvsbihvvc5phf84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuUS1l8j2NPVSOVztiLliWvJWmsx3sfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250647535131-mtso276gtska0886kkvsbihvvc5phf84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
